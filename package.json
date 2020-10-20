@@ -1,7 +1,7 @@
 {
   "name": "example",
   "version": "0.1.0",
-  "homepage": "http://talkpik.com",
+  "homepage": "http://github.com/talkpik/example.git",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
